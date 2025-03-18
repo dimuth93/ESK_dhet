@@ -1,1 +1,1 @@
-print ("I am new to this");
+print ("I am new to this thing");
